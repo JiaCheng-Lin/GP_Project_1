@@ -1,0 +1,5062 @@
+fileFormatVersion: 2
+guid: 5eadc50fcda092c4ea2d9338d8b6be68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 19
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82123e81084ac7244a40925b132a89c0
+      internalID: -1419104019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 32
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd417f43f847a7f4cb61f0a90945b552
+      internalID: -753360593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 480
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17faa8626f3d3744e9d45c95bab10ab5
+      internalID: -1287281610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a08fd2d7c614014287c63ad82b25f3c
+      internalID: -264444844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922e55216fe42cd4b95f654406cccae1
+      internalID: -1410399220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 499
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e2f471c8a3e342a27754e8b52d858
+      internalID: 1679408292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50542bf91db5de47b5f8791a26c26ee
+      internalID: -596580337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 497
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c1c123aea055645ba360957c172c59
+      internalID: -360147981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324918fa165bea04d9d6556166443457
+      internalID: -1561016783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 496
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9ffd78c788e84f834f019618e4d77
+      internalID: -1783109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 497
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8adf6f1225b01840be2da8493430740
+      internalID: -653061092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 496
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1bd6e423e8384a9ce1e8816d21076
+      internalID: 957094001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 496
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c286340907bf85a42bc5da62eded2ff9
+      internalID: 248612936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 496
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa478b84328b74cb3094c15528b4ab
+      internalID: -111020562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 497
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff58fb21cb438145a57996e175c8130
+      internalID: -2104236152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 480
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa37fc51bd6a04899393645317c56e
+      internalID: -43067234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 480
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8564a50a79e67d4d88e78beffafe18e
+      internalID: -1330178578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab63a9b1cf9804a93efd1667386c9a
+      internalID: -725907546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9046fd54a953f50449834efaf9628542
+      internalID: 288630100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc88aa8da2fbb47962cbbae7b1c532
+      internalID: 289212815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f7803129ae2d241ae756566cda11d1
+      internalID: 2047744070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed76b96be139a045a95d02202838272
+      internalID: -250006292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178cbf4bc9d7d5347b1d3e248e5be8d8
+      internalID: -624468038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 432
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62a86d6ec49bab44a8a620e0bb697fc
+      internalID: -85110136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 448
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b0fb14934a724c8cb81d03edcbd2d
+      internalID: -1875022685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 451
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a81460a0ccdeba4083a14eb687e5029
+      internalID: 679791349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 448
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385eadbbb6ba0064b8de8c9e0f36f774
+      internalID: 1930574875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 449
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6d0ba24d8cd3d4ab25b1a47a4f7ff9
+      internalID: 1054147781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 448
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e199cb221b444b9f2485018143794
+      internalID: 2088420155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b96ee07d2fbd51448c38618d124528a
+      internalID: -1461050719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 449
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2761f2dac9a45543b7a2d4f8c60d056
+      internalID: 9955483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e4e0f2cc055a64d902748e9851f2af
+      internalID: 1390467992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 448
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6271823429574895769775a25f162
+      internalID: -2012262636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 448
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304bc9b5c3df3a744b43656d6c9d4cb2
+      internalID: -527760215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 449
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a427181b7204e4286dee130189d4d6
+      internalID: -1347183035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 432
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2fe956e991e442ae23bbb35ca0ee4
+      internalID: 1436228495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 432
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa1191484d87d4cb0712203fa4bbe9
+      internalID: -266669784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523c5879603aa28459621dd1d7df1bac
+      internalID: 1555159595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8888c5ae823f7c941a1287f6d0e2fc00
+      internalID: -436164768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f76a3c191fd654698e6e4cbd22abd4
+      internalID: 685869784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb51edd0b77ff44ab6459663802084c
+      internalID: 641011738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d42255878ed544185670bef068ac0d
+      internalID: -263193145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2911beb747eed4783b081fe5e949ca
+      internalID: -1241675994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 416
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e187f4eb83e84d8e9917ca64c861e
+      internalID: -1228765555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 384
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7440c610719c73e4c8c8d4aff32caa54
+      internalID: -477756433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 400
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec569f877f238874cbb971e4f3b28c90
+      internalID: -1313518526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 403
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81616840b80f61c4490869b7c60a1b2c
+      internalID: -1260396341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 400
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1825277558e21a0499f5d21c94535540
+      internalID: -1958778508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 401
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6024adcdb7ace2b4d86a604a527e97eb
+      internalID: -1369466967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 400
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047405f41958d614fb051a98e74b4bc2
+      internalID: -733968828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 400
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f8d5cfa4954d468b2d6fa84651261
+      internalID: 706651270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 401
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049391ee7d3adbe49b41d3cb63248ed7
+      internalID: 546670940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed4b02907a6c247a72a786ee538b8e
+      internalID: 1075926506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 400
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba9e0f368c72ce4a8566fffb8b9bf7a
+      internalID: 2136262284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fa2ce165dd3f04b92b8e3f60d1cd9d
+      internalID: 616774020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 401
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f38641b4ac0e344ab7ed2663b6a9c4
+      internalID: -1582290733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 384
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c91b0fc75616794e95b39bfec2f02cc
+      internalID: -1914043445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 384
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769f79ea5aaf6b4d91b602ae1077917
+      internalID: 865494585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b88b757bb333bb43aca514720bda915
+      internalID: 1196609425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_59"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d2d33c78b282479218cfa97a46392
+      internalID: 293289609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_60"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126fa212a33597949a19fb54944d9c21
+      internalID: 1616923475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_61"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f06b04bc9eb9543b653a1e35a8f630
+      internalID: -736943118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_62"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a9b32d036e305489e27747ef12674b
+      internalID: 1158352629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_63"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd48cb74eae77448bc4f157d5f93ed
+      internalID: 1182438862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_64"
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 368
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901928e13dce6754f8dc19c5b4ebbaf7
+      internalID: -1146869466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_65"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 336
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ef656fc4342d40b503cb0af947045
+      internalID: -1696172952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_66"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 352
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c9a49b99797547b6d6ff6f22cc472
+      internalID: -1352028006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_67"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 355
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329acd810452554d9c66a7ada20106a
+      internalID: -6592543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_68"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 352
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f63162c555b5264cbb088b9dbf100f1
+      internalID: -1665440173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_69"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 353
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce4e295d3cf0874ca4563cfa576f977
+      internalID: 581295232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_70"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 352
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f285f37fc48cc394e90d72c54f85ad01
+      internalID: -857875539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_71"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 352
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7708b3dba5f77504e9181469deb4648f
+      internalID: 1833196234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_72"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 353
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d517160281376540b3c9f53a358e5ea
+      internalID: -1521750500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_73"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a308df45c0ada4e851dbb5b8ced7b8
+      internalID: -1377315631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_74"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 352
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb49a354b1f7f14ba49471c9f718854
+      internalID: -56205360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_75"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 352
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c77444c31c5f6478be9491d524d7b5
+      internalID: -589181269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_76"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 353
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b062ca23d276743478ef637c4e765093
+      internalID: 1340551037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_77"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 336
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb1f3c6696a3ab4e8d57a169fd7d74c
+      internalID: -822084881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_78"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 336
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c25ac4001496a498340865aae669d9
+      internalID: 223398441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_79"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd48ad708541640bd4184cb0209b82
+      internalID: -2081274301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_80"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2299bfd3608f541a60b1c0aa680908
+      internalID: -1793162511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_81"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ffeef8a34fa94c8ed5fb0855a1b1c
+      internalID: -1059984833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_82"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93980d8fbdd52846b3f5a1af63037a0
+      internalID: -682233508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_83"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae54a0c31c50db54b88f003a849758f7
+      internalID: 1429969172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_84"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15dc905b26fcd4e9325ed3127bdc61
+      internalID: 1192641314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_85"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 288
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c53a17a1251bb4c8e21cf4da278740
+      internalID: -270716065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_86"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 304
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641d8766412808a4b8e3539e75b1082a
+      internalID: 1545005650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_87"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 307
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d71b7fe6acaf43bbc4d2d5b7204ef
+      internalID: -1189384141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_88"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 304
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf3fbff73d9a024099fcdda651dc31a
+      internalID: -1466059867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_89"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 305
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d997721f920a53a4585be4f66c18f588
+      internalID: -951101993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_90"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 304
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816c60afd6043024a80ca7c6e162a7b5
+      internalID: 614267137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_91"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f98726f80a1c0249a5b7d51ef2266c9
+      internalID: 56646854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_92"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 305
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e5d9941fe829947ac0fcdd0694a53f
+      internalID: 1280375034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_93"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1513717f244ee0345b5a4890f6b303d0
+      internalID: 874998593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_94"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 304
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89fdef9fc157364d8e14ee92e1f8eae
+      internalID: -1984751114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_95"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 304
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e1078d5dd7b747b9a645bba971087
+      internalID: 520421138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_96"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 305
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45577266a69ed504381ba4250673c6e3
+      internalID: 2123523377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_97"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25f1d2bbeda86e45b8cee163059e5c1
+      internalID: -1714712829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_98"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 288
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6535eb150dcbb946bd6409c9ec613e3
+      internalID: -1381161314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_99"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6244a7563f10817419b658c31c848459
+      internalID: -894337655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_100"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ebe3680eaae0a4b8d7ee6c806a0761
+      internalID: -1821677932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_101"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573b25135e48826429ea0d29c7ab933b
+      internalID: 342250338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_102"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84682301fa981644bbc3f4dd27d0f025
+      internalID: 900625298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_103"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a2a68f8eae5d4ca81962b1bbf00bc
+      internalID: 329383924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_104"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3000c60a7b448624499072fb5200f5ae
+      internalID: -589232559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_105"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 240
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de29b0b83cce3a45bbfccf3f8522256
+      internalID: -453914602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_106"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f550393d64a96489eb2979b0880c91
+      internalID: -897104302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_107"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 259
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f290b8d67baa18943aed6f0e54e02ca1
+      internalID: -1089358978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_108"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e7cd1eb32bfd48aaada414b67734f
+      internalID: -1526712832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_109"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80899f137b61c5240ba666c48e2202d8
+      internalID: -377205649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_110"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a422e71ca0e9bf44ae52f94e35a9145
+      internalID: -1226480015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_111"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcee89be0efad043ae14ecbdd4ca311
+      internalID: 565219989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_112"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 257
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f5bd19f2c9adb4aa75703a9634f496
+      internalID: 1437441578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_113"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3376082cb92d86d408dd2617fc5349af
+      internalID: 447789091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_114"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 256
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061d0b789969a4945a0d53f1067b1c92
+      internalID: -71100064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_115"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46090c474c582314587741d55c55646f
+      internalID: -265693612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_116"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 257
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367dab949713dbd4b8df8e64ddb68702
+      internalID: 1260040148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_117"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f15cef692a0864183f909f4f8b7639
+      internalID: 720811363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_118"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 240
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cc96df58bd6f047b31b149742ecbd7
+      internalID: 881074206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_119"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd524409ff5f9d4ba80ed270fed18f2
+      internalID: 1035145245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_120"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060e8df2d96232f4bad71be68b0f5653
+      internalID: -950518158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_121"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218cd886e6a34a649808a5390bbe4f6f
+      internalID: -44568535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_122"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de409697afd9928499d8b3ca38d7d3f0
+      internalID: 349859317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_123"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798cdf62c0f42f24facd827421c7bdf4
+      internalID: 2107253206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_124"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13641d12f82610942aaecce4cdf85222
+      internalID: -1889784428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_125"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 192
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32eac9174b34e4459889778e9da6798
+      internalID: -1780272605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_126"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 208
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123a0d52d668194fb4452629ee07152
+      internalID: 504093018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_127"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4911747d656c6848bb1b2f5dda0b91a
+      internalID: 392083430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_128"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 208
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d18a7e8883094b4d98cbcb564c9606b
+      internalID: 1616851088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_129"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 209
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f008d8fa96e549a8e068f49ee54ec
+      internalID: -230079909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_130"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587d254b148594045bc7e3c77ac69d50
+      internalID: -37938922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_131"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb119d08c235d8344bd763f36441bb7f
+      internalID: -1574125471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_132"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 209
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277c48c20a1d8a847a86e964e1c05e34
+      internalID: 1527561119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_133"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03a8aa4a0c56344888593e104b72d6
+      internalID: 1715023777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_134"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b0812e7a1a62944a945e45ecf708a4
+      internalID: -1368130378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_135"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 208
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393beaccbb02074b825581a6dbf8bf6
+      internalID: 1479962498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_136"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 209
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce6267c5f89ca42b7fa8f6164db253
+      internalID: 784764168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_137"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46033aa84f7ebbb45ab7cc8b8c7648ab
+      internalID: -597095863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_138"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec1d6afc04f18f4b839179bfd5f8d90
+      internalID: 1142047688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_139"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4900d29471d484b438481b44ad6871a5
+      internalID: -1037184962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_140"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e6faf2b2ed331448530e908adfe5b9
+      internalID: -1724686617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_141"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff3eb3ee7f6c144ad0732f9d9f13c9
+      internalID: -2037392142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_142"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd63f562f6f022458fb15a4a181034e
+      internalID: -1287673407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_143"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b6518b08001e14b8400dfba31572fd
+      internalID: 1923802801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_144"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb708f7bb4aadf6438df0f79e4d6f913
+      internalID: 1781271414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_145"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 144
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b13fc4f7536646a6737ab1d5dfb0b
+      internalID: -1986450466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_146"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dfe03ae27f11e43a302aa4053d2909
+      internalID: -13799906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_147"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 163
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099417578bf68c146b212681f705a093
+      internalID: -2128857319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_148"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be78d663b6080e843ae0c877b54b66e7
+      internalID: -1244628624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_149"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 161
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a8730c105f005408fb2cab2675d08e
+      internalID: -1550315530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_150"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a5fab25b7fb74dbbda97200b8d195
+      internalID: 457792413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_151"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da90c0f19c26e418c5a61972732ed5
+      internalID: -1567698373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_152"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 161
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77e2a2b1aaf6d1419b162d62b5bfc3a
+      internalID: -862202486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_153"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d70e8add8df6f249b9e4079d8678a36
+      internalID: -882776773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_154"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 160
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701102adb0754234d85bd41eb02d57f2
+      internalID: 185842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_155"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fedc2af5d8818f489907ec19619377d
+      internalID: 871836066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_156"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d1c614bf294d4c985cfcf47f3ca1d
+      internalID: -2053295538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_157"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f3b3e9db524444a91013173aeda5dc
+      internalID: 1561012210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_158"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5ff5b2b249c647950e177435027a5
+      internalID: -1542386587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_159"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744cf602380f29c469387d0bcdff07e8
+      internalID: -755508598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_160"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd16197247f1fb48943049d94b0d7d9
+      internalID: 83750824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_161"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7029f3b6b89adf409834aeaed6cb4d5
+      internalID: 31859678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_162"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742bf437157a28e4799cefc65cb1b31e
+      internalID: 1867613204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_163"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17d818c0c10f94da7d0d699ad8983d
+      internalID: -775223320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_164"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53fb0f44ccae8c468309f41abd0b659
+      internalID: -1324147252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_165"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bdbe0cc02d549468ff3c559e33a97b
+      internalID: 2084241818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_166"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 112
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46f4639b4a6d94980ec9ad280aa6d8
+      internalID: 960362973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_167"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 115
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ccb91ef1e58b40a632c281d431940
+      internalID: 2045014738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_168"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 112
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47160fa334907c40839caa3e115fc17
+      internalID: -596880761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_169"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f93a9672bd8c9a4e9356556c62ab57f
+      internalID: 669602261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_170"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 112
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5beffa57413b740b8845ba2067e781
+      internalID: 902313014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_171"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255d942fa4892f048abfbea4dc88cf6c
+      internalID: -947682715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_172"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b8ce7f12c7a84a8c16cfbbab4ae77
+      internalID: -1721467651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_173"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815975bde33642a419fe1c799f1f701a
+      internalID: -1844151510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_174"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 112
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da65c76a1bcac344aa1961279782ec35
+      internalID: -1357756173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_175"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1252634b92b0e1748b471c02f259b0c0
+      internalID: -2055604429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_176"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 113
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e01fae379ee84a92b400f6b03720a
+      internalID: 1915980481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_177"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4d7d957d2980e4ab1708787e641dac
+      internalID: 1864487838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_178"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a3cb571b750048baedc168ad8a04c
+      internalID: 1638760625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_179"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec0f043e4612f246acb4916e2b8bb99
+      internalID: -586882414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_180"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd03c3a2d964d94e8977545d90c9f8b
+      internalID: -1476926698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_181"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd8ec0e3a5cc44cbac4976cc014bdc
+      internalID: 793123099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_182"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478072a8fad7fa34d9b16bd6b6978a1f
+      internalID: 1043026881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_183"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff6d07ff950ab547b7e4e373af28e55
+      internalID: -1739514644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_184"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8f49e6f6c394649bee4f4525192679
+      internalID: 336224916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_185"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca838b76a82ac84f998df86269bc2d8
+      internalID: 1033608904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_186"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb610067344b9f4ab78350e1d32632a
+      internalID: 873647449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_187"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d6bc1d4bea8c40a1fb3be8326369f
+      internalID: 534823474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_188"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71536d847cfe882419c4f71a2d5e5cad
+      internalID: -1192709029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_189"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8982b2efce5e34cb8d838fb33949c3
+      internalID: -22433569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_190"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5445d03a74c374da90e3e854aa94b2
+      internalID: 1268130445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_191"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abcec3d4d9c9ec4fb29f6310d073e48
+      internalID: -1593816446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_192"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 65
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37168e836e42e1c42b9a285d8e9b6a8e
+      internalID: 622960875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_193"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60261e1952cbd704c9f5ff5c9e7376eb
+      internalID: -555599170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_194"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ea092afa6c3a4cbc77af802923b9a
+      internalID: -1945728760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_195"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79ccc6e9f4c3b44b6c49e9258fc613
+      internalID: 1014491789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_196"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca6742e7543bb44f8fc688c3efbd2fc
+      internalID: -985039854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_197"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db81bd3459884eb4292b08f09e486af5
+      internalID: -1205727009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_198"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf91ccac0416c2041a4c45e26e3a88d1
+      internalID: 908585420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_199"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075f98fa11e3be43add3c01ca4b14c3
+      internalID: 1224829079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_200"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da550f25b7741146bb1a664dbc9405f
+      internalID: -1180380580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_201"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a3b91959847043a8363b890cba4a3
+      internalID: 266469032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_202"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b51f8d28e4db4d8ac5f1d56d38750
+      internalID: -368827024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_203"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6747ea824c34c949812b3e1289cb93c
+      internalID: 72889740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_204"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b05d92afd6fa1f4d8376b6c656b09db
+      internalID: 1444858021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_205"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a80cc79dc316f449a04bb40257a6b8
+      internalID: 1817890283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_206"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 16
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e47cb0786a6c4ab1a071432e9d1cf
+      internalID: 1246412528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_207"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c685285aef17b43ba5d2daa4789610
+      internalID: 795838544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_208"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 16
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f04046f96a7274fb900e6d14ac1219
+      internalID: -1761304447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_209"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d113e469b33df4b83d3d05570d2f8e
+      internalID: -2127663642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_210"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 16
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31377e3a8a0032c419f55be768761917
+      internalID: 1561266140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_211"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5bc1fa729161459c7ad3a3947c410
+      internalID: 1990373964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_212"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 17
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0f2295067b7ec4db1f91739d6070bd
+      internalID: -23770444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_213"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c574592b3483f1489a5ef697457bbcf
+      internalID: -58039009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_214"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 16
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57d72c2e5cef1e4e9a5511c11483bec
+      internalID: 1066137301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_215"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8da81a63ed2d4a90e6232f4824d83
+      internalID: -370638557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_216"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 17
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384c507d606fd246943b5dcccabe933
+      internalID: 672651617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_217"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95cf90762bca414a97e21038c0882fd
+      internalID: -710990981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_218"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66859b1a6e8bc84abefb0b7769e0722
+      internalID: -1839824487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_219"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5f5db71f52a7944a733c2fa7bd9529
+      internalID: 787519223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_220"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36a084b6f975e34fb04af174c838d48
+      internalID: -1707027928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_221"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad43201949bffb347a28643a0a0714b1
+      internalID: -1434278795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_222"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f2e349c6ab6b44ebaf509dbfe64ca8
+      internalID: -1531116297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_223"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c97a848b6d7c4489c680047c2d44ef
+      internalID: 1380666702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_9": -1783109
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_115": -265693612
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_107": -1089358978
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_83": 1429969172
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_119": 1035145245
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_0": -1419104019
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_91": 56646854
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_111": 565219989
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_183": -1739514644
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_50": 706651270
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_213": -58039009
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_86": 1545005650
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_104": -589232559
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_190": 1268130445
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_169": 669602261
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_63": 1182438862
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_95": 520421138
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_116": 1260040148
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_49": -733968828
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_76": 1340551037
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_89": -951101993
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_34": -1347183035
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_80": -1793162511
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_109": -377205649
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_170": 902313014
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_19": 289212815
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_133": 1715023777
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_40": 641011738
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_26": 1930574875
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_71": 1833196234
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_129": -230079909
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_99": -894337655
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_161": 31859678
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_193": -555599170
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_31": 1390467992
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_42": -1241675994
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_134": -1368130378
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_55": -1582290733
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_77": -822084881
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_18": 288630100
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_33": -527760215
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_21": -250006292
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_85": -270716065
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_96": 2123523377
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_88": -1466059867
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_13": -111020562
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_204": 1444858021
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_165": 2084241818
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_124": -1889784428
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_171": -947682715
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_120": -950518158
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_162": 1867613204
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_61": -736943118
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_59": 293289609
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_123": 2107253206
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_5": 1679408292
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_196": -985039854
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_181": 793123099
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_68": -1665440173
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_163": -775223320
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_174": -1357756173
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_186": 873647449
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_10": -653061092
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_29": -1461050719
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_202": -368827024
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_132": 1527561119
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_114": -71100064
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_164": -1324147252
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_41": -263193145
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_152": -862202486
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_38": -436164768
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_47": -1958778508
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_73": -1377315631
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_56": -1914043445
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_118": 881074206
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_22": -624468038
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_197": -1205727009
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_146": -13799906
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_207": 795838544
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_12": 248612936
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_28": 2088420155
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_137": -597095863
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_178": 1638760625
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_58": 1196609425
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_14": -2104236152
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_43": -1228765555
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_187": 534823474
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_128": 1616851088
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_62": 1158352629
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_90": 614267137
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_143": 1923802801
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_142": -1287673407
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_210": 1561266140
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_66": -1352028006
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_11": 957094001
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_139": -1037184962
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_103": 329383924
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_157": 1561012210
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_175": -2055604429
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_48": -1369466967
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_184": 336224916
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_93": 874998593
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_208": -1761304447
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_214": 1066137301
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_7": -360147981
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_136": 784764168
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_180": -1476926698
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_32": -2012262636
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_159": -755508598
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_149": -1550315530
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_70": -857875539
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_54": 616774020
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_39": 685869784
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_20": 2047744070
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_64": -1146869466
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_108": -1526712832
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_156": -2053295538
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_135": 1479962498
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_27": 1054147781
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_221": -1434278795
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_215": -370638557
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_4": -1410399220
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_189": -22433569
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_65": -1696172952
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_218": -1839824487
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_52": 1075926506
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_209": -2127663642
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_110": -1226480015
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_211": 1990373964
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_74": -56205360
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_125": -1780272605
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_57": 865494585
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_140": -1724686617
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_144": 1781271414
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_30": 9955483
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_94": -1984751114
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_200": -1180380580
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_176": 1915980481
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_51": 546670940
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_199": 1224829079
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_192": 622960875
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_25": 679791349
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_220": -1707027928
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_216": 672651617
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_67": -6592543
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_154": 185842
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_131": -1574125471
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_138": 1142047688
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_223": 1380666702
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_87": -1189384141
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_105": -453914602
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_201": 266469032
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_75": -589181269
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_69": 581295232
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_81": -1059984833
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_203": 72889740
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_222": -1531116297
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_168": -596880761
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_155": 871836066
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_145": -1986450466
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_101": 342250338
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_6": -596580337
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_46": -1260396341
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_3": -264444844
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_78": 223398441
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_16": -1330178578
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_17": -725907546
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_35": 1436228495
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_117": 720811363
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_194": -1945728760
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_53": 2136262284
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_188": -1192709029
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_106": -897104302
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_141": -2037392142
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_15": -43067234
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_60": 1616923475
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_153": -882776773
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_212": -23770444
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_121": -44568535
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_179": -586882414
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_148": -1244628624
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_112": 1437441578
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_177": 1864487838
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_172": -1721467651
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_130": -37938922
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_205": 1817890283
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_45": -1313518526
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_195": 1014491789
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_206": 1246412528
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_158": -1542386587
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_167": 2045014738
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_8": -1561016783
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_185": 1033608904
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_126": 504093018
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_147": -2128857319
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_79": -2081274301
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_191": -1593816446
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_82": -682233508
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_182": 1043026881
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_24": -1875022685
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_102": 900625298
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_219": 787519223
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_1": -753360593
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_37": 1555159595
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_127": 392083430
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_151": -1567698373
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_100": -1821677932
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_160": 83750824
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_92": 1280375034
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_84": 1192641314
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_122": 349859317
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_36": -266669784
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_150": 457792413
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_217": -710990981
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_23": -85110136
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_97": -1714712829
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_98": -1381161314
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_173": -1844151510
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_2": -1287281610
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_44": -477756433
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_72": -1521750500
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_113": 447789091
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_198": 908585420
+      "Mario_amp_ \u8DEF\u6613\u5409 \xB7(Mario _amp_ L_\u7231\u7ED9\u7F51_aigei_com_166": 960362973
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

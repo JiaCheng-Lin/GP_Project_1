@@ -1,0 +1,3852 @@
+fileFormatVersion: 2
+guid: 43eb4d36a0eed914f87d2a7e41458c0f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87117ad1bf271f49a3922d5ed5a2565
+      internalID: -2093979107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 264
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e9a67e21d6774ab2c857fc3909433
+      internalID: -504261117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 264
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f027334fc3704a8147d0e297764b1
+      internalID: 1310568418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 263
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123b50a8dcb8c74c9b396b1deef8d63
+      internalID: 1914388203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 263
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c9d9fed19e4d43b6ba5e8305d3ac2
+      internalID: -1321986401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 263
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc90009ec96bc34d86022ff43dc780a
+      internalID: -280980929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 267
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c89a39dd5d8849b2430822eb70a23
+      internalID: 636998067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 267
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206aa50a5f5bb9c4eb997df8b29d5400
+      internalID: -188463406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c43ddbf22150de46b41335f9b0b96e8
+      internalID: 1949872869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 271
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f9cd6151496f4aa74d47136f8c8a5
+      internalID: -1495575997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b00f96132eeb64e852ee0ebb1a41fb
+      internalID: 1760195098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a1010980c28cd4b9d4eab112a59ed6
+      internalID: 792167739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 271
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9d39dd8771c54b82aa2f7883476c8
+      internalID: -776240137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 271
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66df3e514bcee6f479cb0c91db87caed
+      internalID: -1346973508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 246
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4740ab3f880cc418fa746f4c3327c2
+      internalID: -454589464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 6
+        width: 464
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f60a451ece14f647bd1d309709f3d0a
+      internalID: 1115504057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 244
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347ea035a5eefea43a39ae3aefb4e1f0
+      internalID: -970604148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 244
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f61bc1628a674788e6ae382bd5984
+      internalID: 109029440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 243
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfad2b1a7a93b049ae1915f69356e8e
+      internalID: -1378400039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 243
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73663e2da0f13049ba704eafdc1ab29
+      internalID: 694435325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 241
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8da3e5815232c41a1edaa2278063da
+      internalID: 1738731242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 247
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dc0e607d52eb7459751c3df9927bbe
+      internalID: -1199091896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 247
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e396ed6a93a2c9469c766e65f90309f
+      internalID: 281619338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 247
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c5498341bbc14bb51c6909d32dad9
+      internalID: -1994340626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e37ac5248cfc4ca5893b1fd829ce3
+      internalID: 18596024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 224
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d231e651ea25bef49b47323c806a1be2
+      internalID: 1054668306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3984619d6ce1c354aa3cbceb0d3a1b8f
+      internalID: 844675643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a938be465ce97438d289a2ece85b43
+      internalID: -1158937394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 223
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5448c60c56addc4aa4fb37722af4fe5
+      internalID: -1112145680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 227
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce156a74b2efa43b8b8e20a8d69ad5
+      internalID: 96809590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 227
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c113a17acede429df58f3131cc7e5
+      internalID: 84443932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 227
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ca56bf2f7067940a48ce72269ac815
+      internalID: 511140756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 206
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e5c2b6f66365a4db2a4a251f84c830
+      internalID: -1503243926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 205
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d585b8523532443a4f4e4eda427160
+      internalID: 308090676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 209
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c1de6ef2a1b043877aec62df2a8fc
+      internalID: 667356745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 205
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9e96d1e598d6943b20e04af522d1f8
+      internalID: 1975848022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 207
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c6efef270f6a4daa5407ace4f1265
+      internalID: -2133141035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 203
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1400e6b4e61049821e14ba019ec8c
+      internalID: -601725988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 207
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d16e654e3ea2364a90297af6297e583
+      internalID: 2068902292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 207
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6326024cb0824984b9568554d0ac5e9a
+      internalID: 1057466159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_40
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 207
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06132dc08a299184f8fab69ea7c1122a
+      internalID: 1739013377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 201
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfeb569b185ad345974af45a209288b
+      internalID: -241612234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_42
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a2043d334b27e42a6b4c43dedcf27e
+      internalID: -341886939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e4cbb7ab8ddf64ba7deefbc63d6f5c
+      internalID: 2092497528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fe5891e4403b945b128a0d5f3b570b
+      internalID: 1215454094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b5b6cd4a68b254a98135e8dc147b88
+      internalID: 841287842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_46
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70da6a78aa9bdf04290e6c79762ecb10
+      internalID: -1391677948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a7366bdcbabe54f8a6fd2cc0734654
+      internalID: -1083529224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32249355297c8fa4a9234b1fdde7ec30
+      internalID: -1099601134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b198628db76b874296d2f632efff601
+      internalID: -296523659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deabc01c506d56f4488c5ba25ad1fcd8
+      internalID: 862124573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829516c0bb3bdd4f8538fb5fdb10d50
+      internalID: 37513248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 187
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69445ccdbe15549be3528122bc435a
+      internalID: -894301612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 187
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6248b02e37f8c499a8de02024612d6
+      internalID: 1281207587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 187
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af99d2d4d8826f24abc7024230ff16f5
+      internalID: -2081629706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_55
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b3dbe6a697a64d94e9b6fb770b39c
+      internalID: 595983731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123b8081a4fb4d449898c7c533840fa3
+      internalID: 625531577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35499599a009b2b42b88a8aeb1f73132
+      internalID: -882685644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_58
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb7838c515f5e345b3fc9a081cbd492
+      internalID: 1575163463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c487e63afd425547bf1bb01cd009e7f
+      internalID: 1731137972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d32a6c2eeb2a498c260913c3d5434
+      internalID: 2090674349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c6866d537398649ae9472a267742ac
+      internalID: 246437881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c015f4724ae204db35583161b9a3aa
+      internalID: -1095529874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aefb62aace45b444b8eff8cfde770b5
+      internalID: -2101382934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_64
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078ba0fcc6e02b44aa1457af99cdf5e
+      internalID: -1180212770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_65
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83682774a7fa1f4180f8adccb1ca4cc
+      internalID: 1741390826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_66
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d01bd6c29553814280391ad9101c03e
+      internalID: 615023500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 167
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f3fe7c5ea485a48aa71bfec04d75b6
+      internalID: -759369033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 167
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a291f462a23a94d840c06971dbd709
+      internalID: -1902639394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_69
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 167
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a7faa8616c0724cb915df4cfe30df2
+      internalID: 1402176366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_70
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 167
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948c7a8f60c513342b872411e40951d3
+      internalID: 155785135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd9d55a45b242748a0c279960b3a3bb
+      internalID: -277278457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_72
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 166
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c2d850ac25974b891cb8574c86a23
+      internalID: -129485191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_73
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c087ee25d12a65241856e40c31b059bc
+      internalID: 1333469455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ae832a77b4964192367507dbe65e7
+      internalID: 91746918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ed387bb8a118042bae291f3bc1432d
+      internalID: 1612325554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_76
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b4df8a8fb806c478b773273bed0aa7
+      internalID: 1842814247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_77
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39439475e3847a54cb4b6af23892e444
+      internalID: 1390373494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_78
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea7c6bdd779a99469f7287f4b155c83
+      internalID: 775260082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_79
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2a2e307df81248949651ad7358634
+      internalID: 174514038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_80
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fd9b07646f8134aa9023d42a206ee1
+      internalID: -471296605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_81
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91370328b557744081490710783db20
+      internalID: 2048186244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_82
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce6316abfed4642890e26a2b22f9ef
+      internalID: 496062666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_83
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 147
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17808192e8403a46801af30b4a68045
+      internalID: 40096693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_84
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 147
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e22d2b81f05ad34188a95d95511c5f7
+      internalID: -1797730296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_85
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 147
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec77d2cd6891ca4a9af871fe4ac0c8b
+      internalID: 235313021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991ab2c5ef24894482d699bbb2d33b0
+      internalID: 1760051735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20a5730ca6f95c4b80dcc30905928e0
+      internalID: 362986795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_88
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216727b6dd453f4c9f0c2fed337b71e
+      internalID: 1394207486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_89
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe2f55665a67454fab102aaf796e725
+      internalID: 610582341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_90
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a504d48c478e49449fa263e304402be
+      internalID: -1119848624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f25f1d4d8b21b1469ad980e262e1e98
+      internalID: -2042105269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_92
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce14e9ab2a2bb5448310b314812f993
+      internalID: 1770818469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138915f2708ab4c44ab5612904496159
+      internalID: 430302046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be20d541f3f01143b0928db17c06d01
+      internalID: 723969980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_95
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c76c5fa82dea649ad14f199067db2c
+      internalID: -1138932196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_96
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04327edda6993064484a79981fb14a88
+      internalID: 404346527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48c6ae469e018745ab2fbe0405f293c
+      internalID: -1001533207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a788aacd533834d428b74ddff18d044d
+      internalID: -767071974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_99
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa008889c15e64c40be8bccf1bbc1f66
+      internalID: -288509009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_100
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f2ca487a441a4ea159820fa814e48
+      internalID: -1292602649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd3b0531ca0eee4f806e2eaa0baf81c
+      internalID: 22435349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_102
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac77c0f41c1d4e4195a28efb53fd74a
+      internalID: 1225418944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fbd1698f7f44542881e5249de7504b
+      internalID: 818545478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f988931ef1fdba44592c7a2678b04449
+      internalID: -1316936718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_105
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 104
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d3b1e3eb535414d8ccc04aeb67d003
+      internalID: -1747363752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_106
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 103
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31cac9013248a543ab553e84a4cba8f
+      internalID: 1512887413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a832dfb4a82247b2342cca1642913
+      internalID: -420988356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_108
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6297722b537a342bd7724642eace27
+      internalID: -943469742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdae07b9592a4f41807ab2ab0bc2ec4
+      internalID: -1063850136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684254eb2fe5ebc44bfc6c75072f727a
+      internalID: 1094332456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_111
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cafe650f06f92e4781d5d67311057de
+      internalID: 667290443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_112
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7607576be7af144804c0f5415091f7
+      internalID: 39346747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_113
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e205b75fc080240a5c3b3b8d836508
+      internalID: -532446976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_114
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a8e212ad79f2449b846f0f5cd83859
+      internalID: 1861416969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22498935d073b9349a8b9ef4d8e2959b
+      internalID: 709290871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_116
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f5b0d7cd02224d85a8d155217a914
+      internalID: 971799583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_117
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06af55e315a0244aab4d996bb672c36
+      internalID: -1960491083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_118
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 83
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c313761166205d749a93fc7f4f0a5237
+      internalID: 2032352059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_119
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 84
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923535b484240f44cbf17e4d956543dd
+      internalID: 1456799384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_120
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 84
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90486be452d1d143bab81b5379b341b
+      internalID: -2012719190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_121
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd234ec427e05c44a092e5a8dfee5b7
+      internalID: -1433066509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_122
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2241909173c3324d82c85b48e842165
+      internalID: 1308124028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_123
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307fab9077078df45814249c62c8dc69
+      internalID: -709588809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_124
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bda8772d78f131418db83851e2c9aae
+      internalID: -1748897047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_125
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a8fc9402656e44bda787caf19fb01
+      internalID: 157990950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_126
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a17ebb683526c44ac262fccac99ef3
+      internalID: -417235859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_127
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f5a9685666c964d8fae2183620bda8
+      internalID: 1168594568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_128
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1f50a1a877bd24ea38088965dfa4d2
+      internalID: -1224879582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_129
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 71
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c27bcbc89617a849a902f827d3926e8
+      internalID: -682064213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_130
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 71
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcdd7b8699a9c1479f6c3cbd26d5dee
+      internalID: -229761300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_131
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea5845da0319204a9b7b96912aa382d
+      internalID: 308251486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_132
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e9924902a2b84eb3eab5865ca9362
+      internalID: -428879111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_133
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ef7e6fc781a5a4fae125e24f367eba
+      internalID: -674326432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_134
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d392da08a7fed1a4db0d805ce6b1d36e
+      internalID: 610309916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_135
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06dfd8c137616341ad1b22a9bde6fee
+      internalID: 474859019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_136
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6e39b461015724c9fb39ee12a95f01
+      internalID: -39448421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_137
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 63
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a70078b6fac040478542ea7645803d9
+      internalID: 1020615129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_138
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5720b0fb5bf75754ead1710e35045139
+      internalID: -1476336191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_139
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 64
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698c8cf31bf5b9442baf07f7ea0d97a7
+      internalID: -1448367565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64afb53b8317dd47b8eca16836b530d
+      internalID: 430750719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_141
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e96e9fd0003e40a7656e9661468b6
+      internalID: 937256923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_142
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1eb2f5f44782640a3c98aeb994741b
+      internalID: 397582642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_143
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547384c8afc9b74caadfaf60e837248
+      internalID: 1272605205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_144
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09b6907349ff5243995030f5b91e550
+      internalID: -1897038282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_145
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16652c1ba8b28645b7e7444556c8aa0
+      internalID: -225370087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_146
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688f69c540bb99348bbdd083f432d8e1
+      internalID: -1943008515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_147
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26c95b9cafda1345a6cdc18ab01c675
+      internalID: 234848416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_148
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c8e02c79f89ea41a07940e3f6a81c0
+      internalID: -1934129455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_149
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c33a0b57629e24b9f2b451ab2b9c9f
+      internalID: -1242972270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_150
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b360ad8d02f454d9ae38270b8b1ccb
+      internalID: -1721379882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_151
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2345434815b944b89e73b162aca55
+      internalID: 373579500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_152
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 43
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99152a7e237494a8586b84a1e2c5c1
+      internalID: 92974464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_153
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 43
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d282497059ae74fa7cbf7d77753c69
+      internalID: 1079175988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_154
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1df0a7ced9999443942dd70ef83f686
+      internalID: 1096169021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_155
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 22
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d587d59acdc04a044ba58dbec77a2b0e
+      internalID: -716646547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_156
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 26
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf410225719e964c9a8030b02a1bbc8
+      internalID: 43400482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_157
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 26
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f04a3c68dbe504198b84accdf06eb4
+      internalID: 1088120079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_158
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 26
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc64e5b08a96cb4b8c4d693acf9950f
+      internalID: 1131858627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_159
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 26
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6538614f2eae9549bfaab48b78c0c8e
+      internalID: -1826489651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 25
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571fdd5eff2a0cc48a3d891d57ce0079
+      internalID: -1567636365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_161
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e4eb337438fbd4782057a28d991b64
+      internalID: -589738221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_162
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 23
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb7da633d6fee49b1acd1f6810da41
+      internalID: -967416586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_163
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003666a2a6e786b44bc3e280e16bc318
+      internalID: -428832064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_164
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6554bee3f5f7d1d478cca851bacd58e8
+      internalID: -653251287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_165
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6360da2c3883445a50196052b50a22
+      internalID: 82462243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_166
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84106af813220344a914cd7aebed3358
+      internalID: -1068368531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_167
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabca4fe104e9c742a2a3cad1ac34beb
+      internalID: 696339456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman10-hp-sprite-2_168
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9472bd79a7a0e04484d317d18adb74c
+      internalID: -66428480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pacman10-hp-sprite-2_99: -288509009
+      pacman10-hp-sprite-2_164: -653251287
+      pacman10-hp-sprite-2_28: -1112145680
+      pacman10-hp-sprite-2_90: -1119848624
+      pacman10-hp-sprite-2_94: 723969980
+      pacman10-hp-sprite-2_133: -674326432
+      pacman10-hp-sprite-2_110: 1094332456
+      pacman10-hp-sprite-2_134: 610309916
+      pacman10-hp-sprite-2_22: 281619338
+      pacman10-hp-sprite-2_7: -188463406
+      pacman10-hp-sprite-2_47: -1083529224
+      pacman10-hp-sprite-2_78: 775260082
+      pacman10-hp-sprite-2_92: 1770818469
+      pacman10-hp-sprite-2_124: -1748897047
+      pacman10-hp-sprite-2_75: 1612325554
+      pacman10-hp-sprite-2_101: 22435349
+      pacman10-hp-sprite-2_0: -2093979107
+      pacman10-hp-sprite-2_54: -2081629706
+      pacman10-hp-sprite-2_129: -682064213
+      pacman10-hp-sprite-2_151: 373579500
+      pacman10-hp-sprite-2_163: -428832064
+      pacman10-hp-sprite-2_79: 174514038
+      pacman10-hp-sprite-2_120: -2012719190
+      pacman10-hp-sprite-2_143: 1272605205
+      pacman10-hp-sprite-2_109: -1063850136
+      pacman10-hp-sprite-2_71: -277278457
+      pacman10-hp-sprite-2_107: -420988356
+      pacman10-hp-sprite-2_135: 474859019
+      pacman10-hp-sprite-2_52: -894301612
+      pacman10-hp-sprite-2_137: 1020615129
+      pacman10-hp-sprite-2_50: 862124573
+      pacman10-hp-sprite-2_42: -341886939
+      pacman10-hp-sprite-2_89: 610582341
+      pacman10-hp-sprite-2_139: -1448367565
+      pacman10-hp-sprite-2_35: 1975848022
+      pacman10-hp-sprite-2_55: 595983731
+      pacman10-hp-sprite-2_6: 636998067
+      pacman10-hp-sprite-2_106: 1512887413
+      pacman10-hp-sprite-2_161: -589738221
+      pacman10-hp-sprite-2_46: -1391677948
+      pacman10-hp-sprite-2_140: 430750719
+      pacman10-hp-sprite-2_115: 709290871
+      pacman10-hp-sprite-2_121: -1433066509
+      pacman10-hp-sprite-2_84: -1797730296
+      pacman10-hp-sprite-2_141: 937256923
+      pacman10-hp-sprite-2_39: 1057466159
+      pacman10-hp-sprite-2_160: -1567636365
+      pacman10-hp-sprite-2_162: -967416586
+      pacman10-hp-sprite-2_165: 82462243
+      pacman10-hp-sprite-2_68: -1902639394
+      pacman10-hp-sprite-2_14: -454589464
+      pacman10-hp-sprite-2_111: 667290443
+      pacman10-hp-sprite-2_81: 2048186244
+      pacman10-hp-sprite-2_87: 362986795
+      pacman10-hp-sprite-2_157: 1088120079
+      pacman10-hp-sprite-2_36: -2133141035
+      pacman10-hp-sprite-2_102: 1225418944
+      pacman10-hp-sprite-2_17: 109029440
+      pacman10-hp-sprite-2_66: 615023500
+      pacman10-hp-sprite-2_70: 155785135
+      pacman10-hp-sprite-2_116: 971799583
+      pacman10-hp-sprite-2_91: -2042105269
+      pacman10-hp-sprite-2_13: -1346973508
+      pacman10-hp-sprite-2_142: 397582642
+      pacman10-hp-sprite-2_128: -1224879582
+      pacman10-hp-sprite-2_34: 667356745
+      pacman10-hp-sprite-2_147: 234848416
+      pacman10-hp-sprite-2_20: 1738731242
+      pacman10-hp-sprite-2_29: 96809590
+      pacman10-hp-sprite-2_126: -417235859
+      pacman10-hp-sprite-2_12: -776240137
+      pacman10-hp-sprite-2_154: 1096169021
+      pacman10-hp-sprite-2_156: 43400482
+      pacman10-hp-sprite-2_153: 1079175988
+      pacman10-hp-sprite-2_113: -532446976
+      pacman10-hp-sprite-2_45: 841287842
+      pacman10-hp-sprite-2_95: -1138932196
+      pacman10-hp-sprite-2_168: -66428480
+      pacman10-hp-sprite-2_37: -601725988
+      pacman10-hp-sprite-2_148: -1934129455
+      pacman10-hp-sprite-2_58: 1575163463
+      pacman10-hp-sprite-2_5: -280980929
+      pacman10-hp-sprite-2_32: -1503243926
+      pacman10-hp-sprite-2_27: -1158937394
+      pacman10-hp-sprite-2_57: -882685644
+      pacman10-hp-sprite-2_38: 2068902292
+      pacman10-hp-sprite-2_8: 1949872869
+      pacman10-hp-sprite-2_112: 39346747
+      pacman10-hp-sprite-2_72: -129485191
+      pacman10-hp-sprite-2_31: 511140756
+      pacman10-hp-sprite-2_18: -1378400039
+      pacman10-hp-sprite-2_158: 1131858627
+      pacman10-hp-sprite-2_145: -225370087
+      pacman10-hp-sprite-2_41: -241612234
+      pacman10-hp-sprite-2_43: 2092497528
+      pacman10-hp-sprite-2_61: 246437881
+      pacman10-hp-sprite-2_3: 1914388203
+      pacman10-hp-sprite-2_155: -716646547
+      pacman10-hp-sprite-2_104: -1316936718
+      pacman10-hp-sprite-2_2: 1310568418
+      pacman10-hp-sprite-2_76: 1842814247
+      pacman10-hp-sprite-2_127: 1168594568
+      pacman10-hp-sprite-2_69: 1402176366
+      pacman10-hp-sprite-2_136: -39448421
+      pacman10-hp-sprite-2_144: -1897038282
+      pacman10-hp-sprite-2_146: -1943008515
+      pacman10-hp-sprite-2_118: 2032352059
+      pacman10-hp-sprite-2_49: -296523659
+      pacman10-hp-sprite-2_56: 625531577
+      pacman10-hp-sprite-2_138: -1476336191
+      pacman10-hp-sprite-2_26: 844675643
+      pacman10-hp-sprite-2_103: 818545478
+      pacman10-hp-sprite-2_11: 792167739
+      pacman10-hp-sprite-2_114: 1861416969
+      pacman10-hp-sprite-2_30: 84443932
+      pacman10-hp-sprite-2_63: -2101382934
+      pacman10-hp-sprite-2_9: -1495575997
+      pacman10-hp-sprite-2_33: 308090676
+      pacman10-hp-sprite-2_98: -767071974
+      pacman10-hp-sprite-2_74: 91746918
+      pacman10-hp-sprite-2_132: -428879111
+      pacman10-hp-sprite-2_1: -504261117
+      pacman10-hp-sprite-2_166: -1068368531
+      pacman10-hp-sprite-2_108: -943469742
+      pacman10-hp-sprite-2_25: 1054668306
+      pacman10-hp-sprite-2_96: 404346527
+      pacman10-hp-sprite-2_159: -1826489651
+      pacman10-hp-sprite-2_4: -1321986401
+      pacman10-hp-sprite-2_88: 1394207486
+      pacman10-hp-sprite-2_16: -970604148
+      pacman10-hp-sprite-2_48: -1099601134
+      pacman10-hp-sprite-2_53: 1281207587
+      pacman10-hp-sprite-2_60: 2090674349
+      pacman10-hp-sprite-2_131: 308251486
+      pacman10-hp-sprite-2_82: 496062666
+      pacman10-hp-sprite-2_105: -1747363752
+      pacman10-hp-sprite-2_23: -1994340626
+      pacman10-hp-sprite-2_21: -1199091896
+      pacman10-hp-sprite-2_19: 694435325
+      pacman10-hp-sprite-2_67: -759369033
+      pacman10-hp-sprite-2_86: 1760051735
+      pacman10-hp-sprite-2_149: -1242972270
+      pacman10-hp-sprite-2_122: 1308124028
+      pacman10-hp-sprite-2_117: -1960491083
+      pacman10-hp-sprite-2_123: -709588809
+      pacman10-hp-sprite-2_15: 1115504057
+      pacman10-hp-sprite-2_24: 18596024
+      pacman10-hp-sprite-2_150: -1721379882
+      pacman10-hp-sprite-2_97: -1001533207
+      pacman10-hp-sprite-2_77: 1390373494
+      pacman10-hp-sprite-2_130: -229761300
+      pacman10-hp-sprite-2_83: 40096693
+      pacman10-hp-sprite-2_73: 1333469455
+      pacman10-hp-sprite-2_59: 1731137972
+      pacman10-hp-sprite-2_152: 92974464
+      pacman10-hp-sprite-2_40: 1739013377
+      pacman10-hp-sprite-2_51: 37513248
+      pacman10-hp-sprite-2_125: 157990950
+      pacman10-hp-sprite-2_44: 1215454094
+      pacman10-hp-sprite-2_65: 1741390826
+      pacman10-hp-sprite-2_80: -471296605
+      pacman10-hp-sprite-2_119: 1456799384
+      pacman10-hp-sprite-2_85: 235313021
+      pacman10-hp-sprite-2_62: -1095529874
+      pacman10-hp-sprite-2_64: -1180212770
+      pacman10-hp-sprite-2_10: 1760195098
+      pacman10-hp-sprite-2_100: -1292602649
+      pacman10-hp-sprite-2_167: 696339456
+      pacman10-hp-sprite-2_93: 430302046
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
