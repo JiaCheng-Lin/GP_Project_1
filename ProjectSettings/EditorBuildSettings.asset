@@ -27,21 +27,30 @@ EditorBuildSettings:
     path: Assets/Scenes/Level4_face_control.unity
     guid: 8d29ff182080f824083f78d729f6434d
   - enabled: 0
-    path: Assets/Scenes/GP_Latest/StartScence_Normal_VTuber.unity
-    guid: 2ce31d31349cb6c45a2ef9dd4863fd07
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Scenes/GP_Latest/StartScence_Normal.unity
     guid: 2086688543faf71498e0220f5908cdda
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GP_Latest/StartScence_Face_VTuber.unity
     guid: 30052a5d69579184fb14f4e58a0c228f
   - enabled: 0
     path: Assets/Scenes/GP_Latest/Game_Normal.unity
     guid: 7e97033d6cf3fcf459375e6feea9baeb
   - enabled: 1
+    path: Assets/Scenes/GP_Latest/StartScence1.unity
+    guid: 8b80b2f8ed4ab454c98b0ff2554a881f
+  - enabled: 1
+    path: Assets/Scenes/GP_Latest/OPTIONS1.unity
+    guid: bfa1682aa480e6d41a65652a9cac5177
+  - enabled: 1
+    path: Assets/Scenes/GP_Latest/OPTIONS2.unity
+    guid: eea13d04c430d2a4fbdaa3a4e37c5745
+  - enabled: 1
     path: Assets/Scenes/GP_Latest/Game_Face_VTuber.unity
     guid: 9b8a7a94da8f95d4e8937ebdb879c670
   - enabled: 0
-    path: Assets/Scenes/GP_Latest/Game_Normal VTuber.unity
-    guid: 628f67af48b3db1438d9b49ae59b3f4c
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}

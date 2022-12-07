@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: hiyori_m07
+  m_Name: hiyori_m07.anim
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -3674,5 +3674,5 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: -49170
+    intParameter: 42628
     messageOptions: 1

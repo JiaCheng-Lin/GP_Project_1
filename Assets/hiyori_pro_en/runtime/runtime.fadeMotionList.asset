@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 403ae2dd693bb1d4b924f6b8d206b053, type: 3}
   m_Name: runtime.fadeMotionList
   m_EditorClassIdentifier: 
-  MotionInstanceIds: 1040ffff0240fffff83fffffee3fffffe43fffffda3fffffd03fffffc63fffffbc3fffffb23fffff
+  MotionInstanceIds: aaa800005ea2000098a9000084a6000094a90000e6a60000caa90000c6a4000026a20000d0a50000
   CubismFadeMotionObjects:
   - {fileID: 11400000, guid: 10a51e63ae5904641b1746211940338d, type: 2}
   - {fileID: 11400000, guid: 97e672ae9c0c7994fb2efc88d6567dc9, type: 2}
