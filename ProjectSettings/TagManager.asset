@@ -35,7 +35,7 @@ TagManager:
   - BG
   - Particles
   - characters
-  - 
+  - pipe
   - 
   - 
   - 
@@ -64,6 +64,9 @@ TagManager:
     locked: 0
   - name: Particles
     uniqueID: 1027750271
+    locked: 0
+  - name: pipe
+    uniqueID: 3433212433
     locked: 0
   - name: Default
     uniqueID: 0
