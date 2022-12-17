@@ -25,6 +25,7 @@ TagManager:
   - MysteryBlock_NG
   - SwitchBtn
   - ArtMesh
+  - SpringBed
   layers:
   - Default
   - TransparentFX
