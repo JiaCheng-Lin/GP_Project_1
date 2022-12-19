@@ -22,6 +22,6 @@ public class FinishScene : MonoBehaviour
     }
     private void finisheScene()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+        SceneManager.LoadScene(5);
     }
 }

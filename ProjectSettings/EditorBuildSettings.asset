@@ -53,6 +53,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GP_Latest/GameFinished.unity
     guid: 7da504673f8e20a46a73a8a7689aead1
+  - enabled: 1
+    path: Assets/Scenes/GP_Latest/Final_Scene.unity
+    guid: b785f3957a277c840b6cd6dc37b8763c
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
